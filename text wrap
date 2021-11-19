@@ -1,0 +1,4 @@
+import textwrap
+string=(input("ENTER A STRING: "))
+N=int(input("Enter a number for word: "))
+print(textwrap.wrap(string,N))
