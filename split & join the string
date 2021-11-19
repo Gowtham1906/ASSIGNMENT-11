@@ -1,0 +1,3 @@
+str=input("Enter a line: ")
+a= str.split(" ") 
+print("-".join(a)) 
